@@ -8,3 +8,6 @@ C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\obj\
 C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\obj\Debug\FTPClient.WindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\obj\Debug\FTPClient.WindowsFormsApp.exe
 C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\obj\Debug\FTPClient.WindowsFormsApp.pdb
+C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\bin\Debug\FluentFTP.dll
+C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\bin\Debug\FluentFTP.xml
+C:\Users\User\Desktop\FTPClient\FTPClientSolution\FTPClient.WindowsFormsApp\obj\Debug\FTPClient.WindowsFormsApp.csproj.CopyComplete
